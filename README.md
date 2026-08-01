@@ -9,6 +9,7 @@ I build small software tools, local-first apps, and source-backed workflows.
 - [Specular](https://github.com/HenryBranchAdams/specular-app) — a question-led workspace for working through ideas and decisions.
 - [Comic Tag](https://github.com/HenryBranchAdams/comic-tag) — an open collaborative comic with no login.
 - [ChatGPT Sites Index](https://github.com/HenryBranchAdams/chatgpt-sites-index) — a catalog of discoverable public ChatGPT Sites.
+- [OpenProse Prompt Lab methodology](openprose-prompt-methodology.md) — the sanitized evaluation method; the evidence history remains private.
 - [Microcosm Recipes Wiki](https://microcosm-recipes-wiki.madebyhenry.chatgpt.site) — public workflow recipes. The Microcosm source repository remains private.
 - [SpaceX S-1 Atlas](https://github.com/HenryBranchAdams/spacex-s1-atlas) — a source-cited disclosure dashboard.
 - [30Plants iOS](https://github.com/HenryBranchAdams/plant-challenge-native) — a local-first SwiftUI plant-tracking app.

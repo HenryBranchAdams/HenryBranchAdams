@@ -1,20 +1,11 @@
 # Henry Adams
 
-Finance and operations builder making source-backed dashboards, control-layer prototypes, and AI-assisted workflow tools.
+I build small software tools, local-first apps, and source-backed workflows.
 
-I use GitHub as a working portfolio for projects that turn messy operating problems into clear systems: evidence-backed research surfaces, mobile-first product experiments, and agent workflows with real verification gates.
+## Projects
 
-## Selected Work
-
-- [SpaceX S-1 Atlas](https://github.com/HenryBranchAdams/spacex-s1-atlas) - source-cited React/Vite disclosure dashboard for reviewing S-1 filings, evidence packets, financial tables, risks, governance, and source material.
-- [30Plants iOS](https://github.com/HenryBranchAdams/plant-challenge-native) - native SwiftUI app for tracking 30 unique plants each week, with local storage, private CloudKit sync, and release-focused app tooling.
-- [Honcho Osaurus Plugin](https://github.com/HenryBranchAdams/Honcho-Osaurus-Plugin) - native macOS/Swift plugin that gives AI agents persistent, project-scoped memory through the Honcho API.
-
-## Current Focus
-
-- Fund finance and operational control layers
-- Source-backed financial and disclosure analysis
-- Local-first apps and workflow tools
-- Agentic development systems with durable context and explicit verification
-
-Some active work stays private when it contains job-search material, proprietary-ish operating context, or unfinished artifact archives. I keep the public surface curated so the visible repos reflect finished or reviewable work.
+- [HippoCamp](https://github.com/HenryBranchAdams/HippoCamp) — a planned local Mac app for evidence-backed persona traces.
+- [Specular](https://github.com/HenryBranchAdams/specular-app) — a question-led workspace for working through ideas and decisions.
+- [Microcosm Recipes Wiki](https://microcosm-recipes-wiki.madebyhenry.chatgpt.site) — public workflow recipes. The Microcosm source repository remains private.
+- [SpaceX S-1 Atlas](https://github.com/HenryBranchAdams/spacex-s1-atlas) — a source-cited disclosure dashboard.
+- [30Plants iOS](https://github.com/HenryBranchAdams/plant-challenge-native) — a local-first SwiftUI plant-tracking app.
